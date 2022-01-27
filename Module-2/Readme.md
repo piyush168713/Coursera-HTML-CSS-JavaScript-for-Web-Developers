@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](http://localhost:63342/Core_Java/Core%20Java/module_1.html?_ijt=udi03nm6011lsgjrgfhe8brmrf&_ij_reload=RELOAD_ON_SAVE)
+# To see the output [CLICK HERE](https://piyush168713.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers/Module-2/index.html)
